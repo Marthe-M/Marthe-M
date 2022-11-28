@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Marthe-M
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning JavaScript, React, NextJS, TypeScript and Angular
 
 <!---
 Marthe-M/Marthe-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
