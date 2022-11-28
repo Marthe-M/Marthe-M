@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marthe-M
+👋 Hi, I’m @Marthe-M
 
 <!---
 Marthe-M/Marthe-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
