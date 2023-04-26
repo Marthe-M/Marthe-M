@@ -1,6 +1,6 @@
 👋  Hi, I’m @Marthe-M <br />
-💚_heart: I'm currently learning C#/.NET <br />
-💙_heart: I also enjoy Front-end development (React, Angular) 
+💚 I'm currently learning C#/.NET <br />
+💙 I also enjoy Front-end development (React, Angular) 
 
 
 <!---
